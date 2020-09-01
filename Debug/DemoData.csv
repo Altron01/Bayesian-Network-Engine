@@ -1,0 +1,15 @@
+fumador,alimentacion,antecedentes,cancer
+poco,malo,si,no
+poco,malo,si,si
+medio,malo,si,no
+alto,medio,si,no
+alto,alto,no,no
+alto,alto,no,si
+medio,alto,no,si
+poco,medio,si,no
+poco,alto,no,no
+alto,medio,no,no
+poco,medio,no,si
+medio,medio,si,si
+medio,malo,no,no
+alto,medio,si,si

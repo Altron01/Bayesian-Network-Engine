@@ -1,0 +1,14 @@
+bajo,bajo,si,no
+bajo,bajo,si,si
+medio,bajo,si,no
+alto,medio,si,no
+alto,alto,no,no
+alto,alto,no,si
+medio,alto,no,si
+bajo,medio,si,no
+bajo,alto,no,no
+alto,medio,no,no
+bajo,medio,no,si
+medio,medio,si,si
+medio,bajo,no,no
+alto,medio,si,si
